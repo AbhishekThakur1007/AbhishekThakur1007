@@ -2,8 +2,10 @@
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm a software engineer who is passionate about developing android applications. I really enjoy learning new frameworks related to mobile. I am proficient in Ionic and currently learning Flutter. Also, in my spare time I read code and undestand different architecture patterns in use and how different use cases are handled to become more literate, numerate and code-savvy. 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: KOTLIN / JETPACK / SQL / ARCHITECTURE PATTERN 
 
-- 🔭 I’m currently working on this page. 
+💼 Android Developer at Edios Software Solutions.
+
+
